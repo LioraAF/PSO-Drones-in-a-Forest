@@ -23,7 +23,7 @@ This project was implemented across two assignments:
 - Implements binary search tree to store and retrieve drones
 - Extends forest to support polymorphic drone management
 
-## 🚀 How to Compile
+##  How to Compile
 ```bash
 g++ main.cpp Forest.cpp ForestCell.cpp Drone.cpp FlyingPoint.cpp -o mysh
 The program expects 3 or 4 input files as arguments:
